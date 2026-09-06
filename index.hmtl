@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Jonny lowkey might be...YK</h1>
+    <p>I'm going run down a hill at max pace js bc, also this is my Portfolio.<p>
+    <h2>Projects</h2>
+    <ul>
+        <li>Portfolio Website (this one)</li>
+        <li>[Future Project]</li>
+        <li>[Future Project]</li>
+    </ul>
+    <h2>Contact</h2>
+    <p>Email me at: <a href="mailto:longwalktosucess@gmaail.com">longwalktosucess@gmaail.com</a></p>
+</body>
+<hmtl>
